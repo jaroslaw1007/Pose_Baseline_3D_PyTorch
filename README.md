@@ -32,7 +32,7 @@ python main.py --training --max_norm
 
 ### Test
 ```
-python main.py --training
+python main.py
 ```
 
 ![](https://i.imgur.com/5rxl05I.png)

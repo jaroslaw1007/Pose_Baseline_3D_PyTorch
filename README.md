@@ -27,7 +27,7 @@ git clone https://github.com/jaroslaw1007/Pose_Baseline_3D_PyTorch.git
 Train on Human3.6m groundtruth 2d joints.
 
 ```
-python main.py
+python main.py --training --max_norm
 ```
 
 ### Test

@@ -192,13 +192,13 @@ def test(opts, model, rcams, criterion):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='PoseBaseline')
     
-    parser.add_argument('--training', action='store_false', default=True)
+    parser.add_argument('--training', action='store_true', default=False)
     parser.add_argument('--lr', type=float, default=1e-3)
     parser.add_argument('--lr_decay', type=int, default=100000)
     parser.add_argument('--lr_gamma', type=float, default=0.96)
     parser.add_argument('--epochs', type=int, default=200)
     parser.add_argument('--batch_size', type=int, default=64)
-    parser.add_argument('--max_norm', action='store_false', default=True)
+    parser.add_argument('--max_norm', action='store_true', default=False)
     parser.add_argument('--resume', action='store_true', default=False)
     parser.add_argument('--load', action='store_true', default=False)
     parser.add_argument('--procrustes', action='store_true', default=False)

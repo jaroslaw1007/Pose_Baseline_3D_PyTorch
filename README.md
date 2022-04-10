@@ -41,7 +41,7 @@ python main.py --training
 |  | direct. | discuss. | eat. | greet. | phone | photo | pose | purch. | sit | sitd. | somke | wait | walkd. | walk | walkT | avg |
 | :--: | :--: | :--: | :--: | :--: |  :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | [Julieta Martinez et al.](https://github.com/una-dinosauria/3d-pose-baseline) | 37.7 | 44.4 | 40.3 | 42.1 | 48.2 | 54.9 | 44.4 | 42.1 | 54.6 | 58.0 | 45.1 | 46.4 | 47.6 | 36.4 | 40.4 | 45.5|
-| [weigq]((https://github.com/weigq/3d_pose_baseline_pytorch)) | 35.7 | 42.3 | 39.7 | 40.7 | 44.5 | 53.3 | 42.8 | 40.1 | 52.5 | 53.9 | 42.8 | 43.1 | 44.1 | 33.4 | 36.3 | - |
+| [weigq](https://github.com/weigq/3d_pose_baseline_pytorch) | 35.7 | 42.3 | 39.7 | 40.7 | 44.5 | 53.3 | 42.8 | 40.1 | 52.5 | 53.9 | 42.8 | 43.1 | 44.1 | 33.4 | 36.3 | 43.0 |
 | This version | 35.5 | 41.7 | 39.0 | 40.4 | 44.4 | 52.4 | 42.7 | 38.2 | 53.6 | 54.6 | 42.6 | 42.8 | 44.1 | 33.9 | 36.9 | 42.8 |
 
 
